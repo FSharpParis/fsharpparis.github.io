@@ -1,3 +1,7 @@
 markdown: kramdown
 kramdown:
   auto_ids: true
+
+baseurl: ""
+permalink: /:title/
+paginate: 5
