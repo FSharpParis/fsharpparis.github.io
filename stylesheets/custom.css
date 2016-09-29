@@ -1,0 +1,11 @@
+#header_wrap .inner div {
+  padding-left: 160px
+}
+
+#header_wrap .inner img.fsharp-logo {
+  display: block;
+  position: absolute;
+  top: 30px;
+  left: 10px;
+  z-index: 10;
+}
