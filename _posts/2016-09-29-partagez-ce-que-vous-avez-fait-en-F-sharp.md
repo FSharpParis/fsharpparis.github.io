@@ -7,7 +7,7 @@ tags:
 - Meetups
 ---
 
-Lors de cette première soirée depuis les vacances d'été, nous avons inauguré un nouveau format, avec 4 présentations au cours de la soirée :
+Lors de cette première soirée depuis les vacances d'été, nous avons inauguré un nouveau format, avec 4 présentations au cours de la soirée.
 
 ## Des dessins avec Pierre Irrmann [@pirrmann](https://www.twitter.com/pirrmann)
 
