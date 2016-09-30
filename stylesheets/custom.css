@@ -2,7 +2,7 @@
   padding-left: 160px
 }
 
-#header_wrap .inner img.fsharp-logo {
+#header_wrap .inner a.fsharp-logo {
   display: block;
   position: absolute;
   top: 30px;
